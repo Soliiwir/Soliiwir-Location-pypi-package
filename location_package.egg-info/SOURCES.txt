@@ -1,0 +1,10 @@
+License
+README.md
+pyproject.toml
+Location_package/__init__.py
+Location_package/main.py
+Location_package/navigationLocBook.py
+location_package.egg-info/PKG-INFO
+location_package.egg-info/SOURCES.txt
+location_package.egg-info/dependency_links.txt
+location_package.egg-info/top_level.txt
