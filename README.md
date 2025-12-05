@@ -10,8 +10,9 @@ It allows you to manage locations by adding, displaying, and searching saved loc
 
 
 # Installation
-from project root run:
+
+From project root run:
     pip install .\dist\location_package-0.1.0-py3-none-any.whl
 
 Requirements
-    * Python 3.8 +
+   * Python 3.8 +
